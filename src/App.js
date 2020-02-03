@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React or dont!  Or maybe 5 minut nap?
+          fucken amazing!!! 69696969
         </a>
       </header>
     </div>
